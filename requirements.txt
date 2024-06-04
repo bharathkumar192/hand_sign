@@ -1,2 +1,8 @@
 ultralytics==8.0.196
 gdown
+flask
+flask_cors
+opencv-python
+numpy
+flask_ngrok
+pyngrok
